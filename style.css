@@ -43,11 +43,18 @@
     gap: 1rem;
     list-style: none;
   }
+.skills li {
+  background: #272727;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}
+
   .skills li: hover {
   background: #03dac6;
   color: #121212;
   transition: 0.3s;
 }
+
   
   .project-card {
     background: #1e1e1e;
